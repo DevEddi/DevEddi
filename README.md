@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img width="100%" height="40px" src="https://github-readme-stats.vercel.app/api?username=3DD1&show_icons=true&theme=midnight-purple">
+<img width="70%"  src="https://github-readme-stats.vercel.app/api?username=3DD1&show_icons=true&theme=midnight-purple">
 
 
 
