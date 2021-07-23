@@ -3,7 +3,7 @@
 <h2>My name is </h2>
 <h1 align="center">Edmilson</h1>
 
-<p style="font-family:courier; color:white;">I'm starting out in this big world of technology. More and more looking for information and learning. To put into practice in my projects.</p>
+<p>I'm starting out in this big world of technology. More and more looking for information and learning. To put into practice in my projects.</p>
 
 <h2 align="center">I have knowledge of:</h2>
 <h2  align="center">The world is a database, if you don't give information, it doesn't work.</h2>
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=3DD1&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=3DD1&theme=radical&witdh="100%"](https://github.com/anuraghazra/github-readme-stats)
 
 
 
