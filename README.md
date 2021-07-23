@@ -8,19 +8,19 @@
 
 <h2 align="center">I have knowledge of:</h2>
 <h3>Front-End</h3>
-    <ul>
+    
         <li>HTML</li>
         <li>CSS</li>
         <li>BOOTSTRAP</li>
 
-    </ul>
+    
 <h3>Front-Back</h3>
-    <ul>
+    
         <li>JAVA</li>      
 
-    </ul>
+    
 <h3>Test-Software</h3>
- <ul>
+ 
         <li>Complexity Metrics</li>
         <li>Unit Test</li>
         <li>Test with Mock Objects</li>
@@ -28,7 +28,7 @@
         <li>Test Driven Development</li>
         <li>SELENIUM IDEA</li>
 
-    </ul>
+    
 <h3></h3>
 
 
