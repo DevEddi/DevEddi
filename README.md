@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img margin="auto" src="https://github-readme-stats.vercel.app/api?username=3DD1&show_icons=true&theme=midnight-purple">
+<img margin="100%" src="https://github-readme-stats.vercel.app/api?username=3DD1&show_icons=true&theme=midnight-purple">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3DD1&layout=compact)](https://github.com/anuraghazra/github-readme-stats">
 <img width="auto"  src="https://github-readme-stats.vercel.app/api/wakatime?username=3DD1">
 
