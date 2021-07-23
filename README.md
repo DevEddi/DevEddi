@@ -8,10 +8,11 @@
 
 <h2 align="center">I have knowledge of:</h2>
 <h3>Front-End</h3>
-    
-        <li>HTML</li>
+    <ol>
+         <li>HTML</li>
         <li>CSS</li>
         <li>BOOTSTRAP</li>
+    </ol>
 
     
 <h3>Front-Back</h3>
