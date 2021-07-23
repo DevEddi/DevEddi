@@ -2,12 +2,34 @@
 <h2>Nice to meet</h2>
 <h2>My name is </h2>
 <h1 align="center">Edmilson</h1>
+<h2 align="center">"The world is a database, if you don't give information, it doesn't work"</h2>
 
 <p>I'm starting out in this big world of technology. More and more looking for information and learning. To put into practice in my projects.</p>
 
 <h2 align="center">I have knowledge of:</h2>
-<h2  align="center">The world is a database, if you don't give information, it doesn't work.</h2>
-<h2 align="center">I have knowledge of:</h2>
+<h3>Front-End</h3>
+    <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>BOOTSTRAP</li>
+
+    </ul>
+<h3>Front-Back</h3>
+    <ul>
+        <li>JAVA</li>      
+
+    </ul>
+<h3>Test-Software</h3>
+ <ul>
+        <li>Complexity Metrics</li>
+        <li>Unit Test</li>
+        <li>Test with Mock Objects</li>
+        <li>Coverage Test</li>
+        <li>Test Driven Development</li>
+        <li>SELENIUM IDEA</li>
+
+    </ul>
+<h3></h3>
 
 
 <ul>
