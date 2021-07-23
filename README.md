@@ -3,20 +3,16 @@
 <h2>My name is </h2>
 <h1 align="center">Edmilson</h1>
 
-<p>I'm starting out in this big world of technology. More and more looking for information and learning. To put into practice in my projects.</p>
+<p style="font-family:courier; color:white;">I'm starting out in this big world of technology. More and more looking for information and learning. To put into practice in my projects.</p>
 
 <h2 align="center">I have knowledge of:</h2>
-<h3>The world is a database, if you don't give information, it doesn't work.</h3>
+<h2  align="center">The world is a database, if you don't give information, it doesn't work.</h2>
 <h2 align="center">I have knowledge of:</h2>
 
 
 <ul>
     <li><a href="https://youtube.com/playlist?list=PLfN1nOyiSyETLzEuhzdVpnKVR7rn_pVqm"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a></li>
     <li><a href="https://open.spotify.com/user/w2phhj50jipohzn1l6wnqi69g?si=c08272f568f341c8"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a></li>
-    
-        
-
-
 </ul>
 
 
