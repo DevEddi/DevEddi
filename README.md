@@ -2,7 +2,6 @@
 <h2>Nice to meet</h2>
 <h2>My name is </h2>
 <h1 align="center">Edmilson</h1>
-<h2 align="center">"The world is a database, if you don't give information, it doesn't work"</h2>
 
 <p>I'm starting out in this big world of technology. More and more looking for information and learning. To put into practice in my projects.</p>
 
