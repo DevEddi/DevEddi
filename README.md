@@ -6,8 +6,7 @@
 - 💼 Soon I will be looking for an internship, to put my knowledge into practice.
 - 🖥️ I'm currently learning JAVA
 - 👯 I try to collaborate in the search for ideas to change the world
-- ☕ Curiosity: I love coffee
-- 🎮 Favorite Game: The Elder Scroll V: Skyrim  
+- ☕ Curiosity: I love coffee 
 - 🎓 I'm majoring in Information Systems
  
 <h3>🆙 SKILLS</h3>
