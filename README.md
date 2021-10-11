@@ -4,7 +4,7 @@
 <p>I'm starting out in this big world of technology. More and more looking for information and learning. To put into practice in my projects.</p>
 
 - 💼 Soon I will be looking for an internship, to put my knowledge into practice.
-- 🖥️ I'm currently learning JAVA
+- 🖥️ I'm currently learning Python and Angular
 - 👯 I try to collaborate in the search for ideas to change the world
 - ☕ Curiosity: I love coffee 
 - 🎓 I'm majoring in Information Systems
@@ -40,17 +40,14 @@
 <h3>📱 CONTACTS</h3>
 <div style="display: inline_block"><br>
   <a href=""><img height="30" width="80" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> 
-  <a href=""><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>
-  <a href=""><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"></a>
-  
+  <a href=""><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>  
 </div>
 </div>
 
 <br>
 <div style="display: inline_block ">  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=3DD1&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3DD1&layout=compact&langs_count=7&theme=midnight-purple"/>
-  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3DD1&layout=compact&langs_count=7&theme=midnight-purple"/> 
 
   
 </div>
