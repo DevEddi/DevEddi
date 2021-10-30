@@ -31,18 +31,6 @@
    
 </div>
 
-<h3>🎵 PLAYLIST RELAX AND DEVELOPER</h3>
-<div style="display: inline_block"><br>
-  <a href="https://open.spotify.com/user/w2phhj50jipohzn1l6wnqi69g?si=53fc6091d0884d3c"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>   
-  <a href="https://youtube.com/playlist?list=PLfN1nOyiSyETLzEuhzdVpnKVR7rn_pVqm"><img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white"></a> 
-</div>
-
-<h3>📱 CONTACTS</h3>
-<div style="display: inline_block"><br>
-  <a href=""><img height="30" width="80" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> 
-  <a href=""><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>  
-</div>
-</div>
 
 <br>
 <div style="display: inline_block ">  
