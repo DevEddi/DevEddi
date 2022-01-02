@@ -34,19 +34,19 @@
 
 <br>
 <div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=3DD1&show_icons=true&theme=tokyonight&card_width=500px&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DevEddi&show_icons=true&theme=tokyonight&card_width=500px&include_all_commits=true&count_private=true"/>
  </div>
  <br/>
 <div align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com?user=3DD1&theme=tokyonight&card_width=500px&date_format=j%20M%5B%20Y%5D"/>   
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=DevEddi&theme=tokyonight&card_width=500px&date_format=j%20M%5B%20Y%5D"/>   
 </div>
 <br/>
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3DD1&layout=compact&langs_count=7&theme=tokyonight&card_width=440px"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevEddi&layout=compact&langs_count=7&theme=tokyonight&card_width=440px"/>
 </div>
 <br/>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=3DD1&card_width=500px"/>  
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=DevEddi&card_width=500px"/>  
 </div>
 
 
