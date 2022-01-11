@@ -1,52 +1,76 @@
-<h1>How are you ?👋  Nice to meet 😀</h1>
-<h1 >My name is Edmilson</h1>
+# How are you ?👋  Nice to meet 😀
+# My name is Edmilson
 
-<p>I'm starting out in this big world of technology. More and more looking for information and learning. To put into practice in my projects.</p>
+-----
+
+I'm starting out in this big world of technology. More and more looking for information and learning. 
+
+-----
 
 - 💼 Soon I will be looking for an internship, to put my knowledge into practice.
 - 🖥️ I'm currently learning Python and Angular
 - 👯 I try to collaborate in the search for ideas to change the world
 - ☕ Curiosity: I love coffee 
 - 🎓 I'm majoring in Information Systems
- 
-<h3>🆙 SKILLS</h3>
+
+-----
+## I've had the opportunity to work:
+
+### Front-End
 <div style="display: inline_block"><br>
-  <img align="center" alt="3DD1-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
-  <img align="center" alt="3DD1-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="3DD1-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="3DD1-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="3DD1-BOOT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg">
-  <img align="center" alt="3DD1-SPRING" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-  <img align="center" alt="3DD1-MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="3DD1-JQUERY" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg">
-   
+ <img align="center" alt="3DD1-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
+ <img align="center" alt="3DD1-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img align="center" alt="3DD1-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="3DD1-JQUERY" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg">
+ <img align="center" alt="3DD1-JQUERY" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
 </div>
-<h3>TOOLS</h3>
+
+### Back-End
+
 <div style="display: inline_block"><br>
-  <img align="center" alt="3DD1-FIGMA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">  
-  <img align="center" alt="3DD1-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="3DD1-GITHUB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-  <img align="center" alt="3DD1-INTELLIJ" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
-  <img align="center" alt="3DD1-VSCODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"> 
+ <img align="center" alt="3DD1-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+ <img align="center" alt="3DD1-SPRING" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+ <img align="center" alt="3DD1-MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+</div>
+
+### Machine Learning
+
+<div style="display: inline_block"><br>
+ <img align="center" alt="3DD1-jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
+ <img align="center" alt="3DD1-PANDAS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
+ <img align="center" alt="3DD1-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+ <img align="center" alt="3DD1-numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg">
+</div>
+
+### Tools
+
+<div style="display: inline_block"><br>
+ <img align="center" alt="3DD1-FIGMA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">  
+ <img align="center" alt="3DD1-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+ <img align="center" alt="3DD1-GITHUB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+ <img align="center" alt="3DD1-INTELLIJ" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
+ <img align="center" alt="3DD1-VSCODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+ <img align="center" alt="3DD1-canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
+ <img align="center" alt="3DD1-gimp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg">
+ <img align="center" alt="3DD1-linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+ <img align="center" alt="3DD1-ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg"> 
    
 </div>
 
 
-<br>
-<div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=DevEddi&show_icons=true&theme=tokyonight&card_width=500px&include_all_commits=true&count_private=true"/>
- </div>
- <br/>
-<div align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com?user=DevEddi&theme=tokyonight&card_width=500px&date_format=j%20M%5B%20Y%5D"/>   
-</div>
-<br/>
-<div align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevEddi&layout=compact&langs_count=7&theme=tokyonight&card_width=440px"/>
-</div>
-<br/>
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=DevEddi&card_width=500px"/>  
+
+-----
+
+
+![Edmilson Silva GitHub stats](https://github-readme-streak-stats.herokuapp.com?user=DevEddi&theme=tokyonight&card_width=300px&date_format=j%20M%5B%20Y%5D) ![Edmilson Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=DevEddi&show_icons=true&theme=tokyonight&card_width=300px&include_all_commits=true&count_private=true)
+
+### My contacts:
+
+<div style="display: inline_block"><br>
+ <a target="_blank"href="www.linkedin.com/in/developer-edmilson-silva"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+ <a target="_blank"href="https://medium.com/@DevEddi
+"><img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white"/></a>
+ <a target="_blank"href="https://www.kaggle.com/edmilsoneddi">	<img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/></a>
 </div>
 
 
