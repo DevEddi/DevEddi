@@ -26,7 +26,7 @@ I'm starting out in this big world of technology. More and more looking for info
 
 ---
 <details>
-    <summary>Technologies</summary>
+    <summary>I've worked with these technologies</summary>
     <div align="center">
       <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> 
@@ -66,10 +66,7 @@ I'm starting out in this big world of technology. More and more looking for info
     </div> 
 </details>
 
-
-
 -----
-
 
 ![Edmilson Silva GitHub stats](https://github-readme-streak-stats.herokuapp.com?user=DevEddi&theme=tokyonight&card_width=300px&date_format=j%20M%5B%20Y%5D) ![Edmilson Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=DevEddi&show_icons=true&theme=tokyonight&card_width=300px&include_all_commits=true&count_private=true)
 
