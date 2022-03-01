@@ -22,7 +22,9 @@ I'm starting out in this big world of technology. More and more looking for info
 "><img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white"/></a>
  <a target="_blank" href="https://www.kaggle.com/edmilsoneddi">	<img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/></a>
 <a target="_blank" href="https://dev.to/deveddi">	<img alt="DEV" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
+ <a target="_blank" href="https://www.behance.net/DevEddi">	<img alt="DEV" src="https://aleen42.github.io/badges/src/behance.svg"/></a>
 </div>
+
 
 ---
 <details>
