@@ -71,6 +71,8 @@ I'm starting out in this big world of technology. More and more looking for info
 -----
 
 ![Edmilson Silva GitHub stats](https://github-readme-streak-stats.herokuapp.com?user=DevEddi&theme=tokyonight&card_width=300px&date_format=j%20M%5B%20Y%5D) ![Edmilson Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=DevEddi&show_icons=true&theme=tokyonight&card_width=300px&include_all_commits=true&count_private=true)
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevEddi&layout=compact&theme=tokyonight&locale=en" alt="Techs used in projects" width="495px" />
+ 
 
 
 
