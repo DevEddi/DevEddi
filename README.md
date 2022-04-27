@@ -3,7 +3,11 @@
 
 -----
 
-I'm starting out in this big world of technology. More and more looking for information and learning. 
+I am a Bachelor of Information Systems student at Granbery Methodist College. Within the faculty, he activates contact with the discipline of artificial intelligence using the Python language, in addition to its Numpy and Pandas libraries to perform data analysis and treatment of lost data. As I got deeper into the discipline, about the limits of machine learning, I learned how to neighboring linear classification trees.
+
+I am currently taking a course using machine learning to perform data processing and SQL language for handling records and data manipulation.
+
+In college I learned with Database, OO, Code versioning with Git, Version Data and Design Patterns.
 
 -----
 
