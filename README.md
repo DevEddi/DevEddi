@@ -54,6 +54,7 @@ edmilson = {
  <a target="_blank" href="https://www.hackerrank.com/DevEddi?hr_r=1">	<img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
  <a target="_blank" href="https://www.hackerearth.com/@DevEddi">	<img alt="hackerearth" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue"/></a>
  <a target="_blank" href="https://www.codewars.com/users/DevEddi">	<img alt="codewars" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"/></a>
+ <a target="_blank" href="bio.link/deveddi">	<img alt="biolink" src="https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white"/></a>
 </div>
 
 
