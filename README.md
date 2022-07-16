@@ -44,7 +44,7 @@ edmilson = {
 
 
 <div style="display: inline_block"><br>
- <a target="_blank" href="https://www.linkedin.com/in/edmilson-s1lva"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+ <a target="_blank" href="https://www.linkedin.com/in/edmilson-scovino"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
  <a target="_blank" href="https://medium.com/@scov1no
 "><img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white"/></a>
  <a target="_blank" href="https://www.kaggle.com/edmilsoneddi">	<img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/></a>
